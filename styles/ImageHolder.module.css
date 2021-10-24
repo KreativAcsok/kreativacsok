@@ -1,0 +1,9 @@
+.img{
+    background-color: #222;
+    border-radius: 1vw;
+    width: auto;
+    height: auto;
+    max-width: 15vw;
+    max-height: 20vh;
+    padding: 1vw;
+}
